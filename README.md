@@ -5,7 +5,7 @@ dock0/fidelius
 [![Build Status](https://img.shields.io/circleci/project/dock0/fidelius.svg)](https://circleci.com/gh/dock0/fidelius)
 [![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
-Container to run [committed](https://github.com/akerl/fidelius), a web app that checks for password security.
+Container to run [fidelius](https://github.com/akerl/fidelius), a web app that checks for password security.
 
 ## Usage
 
