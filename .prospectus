@@ -1,0 +1,13 @@
+item do
+  name 'fidelius::submodule'
+
+  expected do
+    github_hash
+    repo 'akerl/fidelius'
+  end
+
+  actual do
+    git_hash
+    dir 'source'
+  end
+end
