@@ -4,7 +4,7 @@ dock0/fidelius
 =======
 
 [![Automated Build](https://img.shields.io/docker/build/dock0/fidelius.svg)](https://hub.docker.com/r/dock0/fidelius/)
-[![Build Status](https://img.shields.io/circleci/project/dock0/fidelius/master.svg)](https://circleci.com/gh/dock0/fidelius)
+[![Build Status](https://img.shields.io/travis/com/dock0/fidelius.svg)](https://travis-ci.com/dock0/fidelius)
 [![MIT Licensed](http://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
 
 Container to run [fidelius](https://github.com/akerl/fidelius), a web app that checks for password security.
